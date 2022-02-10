@@ -1,6 +1,6 @@
 ## Hi there, We are Start Future 👋
 
-![banner](./baner.png)
+![banner](https://raw.githubusercontent.com/StartFuture/.github/main/profile/baner.png)
 
 **Here are some ideas to get you started:**
 
