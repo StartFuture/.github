@@ -1,6 +1,6 @@
 ## Hi there, We are Start Future 👋
 
-![banner](./banner.png)
+![banner](./baner.png)
 
 **Here are some ideas to get you started:**
 
